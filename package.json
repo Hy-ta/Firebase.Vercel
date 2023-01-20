@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.8.10",
     "@react-navigation/stack": "^5.12.8",
     "expo": "^40.0.0",
-    "expo-cli":"^6.0.8",
+    "expo-cli": "^6.0.8",
     "expo-facebook": "~9.1.0",
     "expo-google-app-auth": "^8.1.4",
     "expo-modules-core": "^1.1.0",
